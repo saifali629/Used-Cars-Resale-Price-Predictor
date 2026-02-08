@@ -29,6 +29,11 @@ This project predicts the resale price of used cars using supervised machine lea
 - Matplotlib
 
 ## Note
-Place dataset file in the same directory as the script.
+Place the dataset file (used_car_dataset.xlsx) in the same directory as the Python script.
+
+If running on Google Colab:
+1. Upload the dataset file to Colab.
+2. Ensure the filename matches exactly.
+3. Run the script.
 <br>
 Project developed with assistance of AI tools, with full understanding of all steps.
