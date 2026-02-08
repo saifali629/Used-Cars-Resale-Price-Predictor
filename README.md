@@ -30,4 +30,5 @@ This project predicts the resale price of used cars using supervised machine lea
 
 ## Note
 Place dataset file in the same directory as the script.
+<br>
 Project developed with assistance of AI tools, with full understanding of all steps.
